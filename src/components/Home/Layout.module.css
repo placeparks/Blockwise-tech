@@ -1,0 +1,175 @@
+/* Layout file css */
+.firstSection{
+    display: inline-block;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 40px;
+    position: absolute;
+    height: 519px;
+    width: 100%;
+    top: 87px;
+    background: #0D0301;
+    border-radius: 0px;
+  }
+  
+  .topHeading{
+    margin-top: -450px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    color: #FFFFFF;
+  
+  }
+  
+  .topHeading2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFFFFF;
+  }
+  
+  .para{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 150%;
+    /* or 33px */
+    padding-top: 30px;
+    color: #FFFFFF;
+  
+  }
+  
+  .btn1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 3px 28px;
+    gap: 16px;
+    position: absolute;
+    bottom: 90px;
+    left: 8%;
+    transform: translateX(-50%);
+    width: 174px;
+    height: 46px;
+    background: #904230;
+    border-radius: 10px;
+    color: white;
+  }
+  .image1{ 
+  width: 790px;
+  height: 510px;
+  margin-top: 0%;
+  margin-left: 40%;
+  }
+  
+  .secondSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 40px;
+    position: absolute;
+    height: 723px;
+    left: 0px;
+    right: 0px;
+    top: 600px;
+    width: 100%;
+    background: #FFFFFF;
+    border-radius: 0px;
+  }
+  
+  .secondSection h1 {
+    width: 680px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 58px;
+    margin-left: -800px;
+    color: #000000;
+    margin-top: 100px;
+  }
+  
+  .secondSection p{
+    width: 680px;
+    height: 66px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 150%;
+    color: #0A2A42;
+    margin-left: -790px;
+    margin-top: 20px; /* Add this */
+  }
+  @media (max-width: 767px) {
+    .firstSection {
+        padding: 60px 20px;
+        top: 87px;
+      }
+    
+      .image1 {
+        width: 100%;
+        height: auto;
+        margin-top: 40px;
+        margin-left: 0%;
+    
+      }
+      
+      .topHeading {
+        font-size: 16px;
+        line-height: 22px;
+        margin-top: -210px;
+      }
+    
+      .topHeading2 {
+        font-size: 24px;
+        line-height: 30px;
+    
+      }
+    
+      .para {
+        font-size: 18px;
+        line-height: 18px;
+        padding-top: 50px;
+        width: 300px;
+      }
+    
+      .btn1 {
+        margin-top: 20px;
+        margin-left: 80px;
+      }
+      .secondSection {
+        padding: 60px 20px;
+        height: 623px;
+      }
+      
+      .secondSection h1 {
+        width: 100%;
+        font-size: 28px;
+        line-height: 34px;
+        margin: 20px 0 10px;
+        text-align: center;
+      }
+      
+      .secondSection p {
+        width: 100%;
+        font-size: 16px;
+        line-height: 22px;
+        margin: 10px 0 20px;
+        text-align: center;
+      }
+     
+     
+}

@@ -36,3 +36,71 @@
     transform: rotate(360deg);
   }
 }
+/* Navbar file css */
+
+.logo {
+  display: flex;
+  align-items: center;
+  padding-right: 100px;
+}
+
+.logo img {
+  width: 100px;
+  height: 70.89px;
+  filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.25));
+}
+
+/* Clients.js css section */
+.clientSection{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 40px;
+position: absolute;
+height: 732px;
+left: 0px;
+right: 0px;
+top: 5110px;
+background: #904230;
+border-radius: 0px;
+
+}
+.clientBox{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 2px;
+  height: 190px;
+  background: #FFFFFF;
+  border: 2px solid #D6DCE0;
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  margin-right: 5px;
+}
+.cbModify{
+  margin-left: 300px;
+  }
+  .clientSection h1{
+    color: white;
+  }
+
+  @media (max-width: 767px) {
+      .clientSection{
+          height: fit-content;
+          top: 12700px;
+          }
+          .clientSection h1{
+            margin-top: 50px;
+            margin-bottom: 30px;
+          }
+          .clientBox{
+            height: 160px;
+            margin-left: 90px;
+          }
+          .cbModify{
+            margin-left: 0px;
+            margin-bottom: 30px;
+            }
+     
+}
