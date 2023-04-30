@@ -114,11 +114,13 @@
     margin-top: 20px; /* Add this */
   }
   @media (max-width: 767px) {
-    .firstSection {
+  
+      .firstSection{
+        position: sticky;
         padding: 60px 20px;
-        top: 87px;
+      
       }
-    
+      
       .image1 {
         width: 100%;
         height: auto;
