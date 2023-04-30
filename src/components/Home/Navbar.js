@@ -1,57 +1,56 @@
-import { useState } from 'react';
 
+import { Link } from "react-router-dom";
 const Navbar = () => {
 
   return (
+    <>
 <nav className="navbar navbar-expand-lg bg-body-tertiary">
   <div className="container-fluid">
     <div className='logo'>
     <img className='logo-img' src='logo.png'/>
     </div>
-    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <button className="navbar-toggler"type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+      <li className="nav-item">
+        <Link className="nav-link active" aria-current="page" to="/">Home</Link>        </li>
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Web 3.0</a>
+        <Link className="nav-link active" aria-current="page" to="/Web3">Web 3.0</Link>        </li>
+        <li className="nav-item">
+          <Link className="nav-link" to="/Metaverse">Metaverse</Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Crypto Banking</a>
+          <Link className="nav-link" to="/Nft">NFT</Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Metaverse</a>
+          <Link className="nav-link" to="">Defi</Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">NFT</a>
+          <Link className="nav-link" to="">Exchange</Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Defi</a>
+          <Link className="nav-link" to="">Wallet</Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Exchange</a>
+          <Link className="nav-link" to="">Blockchain</Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Wallet</a>
+          <Link className="nav-link" to="">Coin Development</Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Blockchain</a>
-        </li>
-        <li className="nav-item">
-          <a className="nav-link" href="#">Coin Development</a>
-        </li>
-        <li className="nav-item">
-          <a className="nav-link" href="#">Blog</a>
+          <Link className="nav-link" to="">Blog</Link>
         </li>
         <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <Link className="nav-link dropdown-toggle" to="" role="button" data-bs-toggle="dropdown" aria-expanded="false">
            About us
-          </a>
+          </Link>
           <ul className="dropdown-menu">
-            <li><a className="dropdown-item" href="#">Action</a></li>
-            <li><a className="dropdown-item" href="#">Another action</a></li>
+            <li><Link className="dropdown-item" to="">Action</Link></li>
+            <li><Link className="dropdown-item" to="">Another action</Link></li>
             <li><hr className="dropdown-divider"/></li>
-            <li><a className="dropdown-item" href="#">Something else here</a></li>
+            <li><Link className="dropdown-item" to="">Something else here</Link></li>
           </ul>
         </li>
        
@@ -63,6 +62,7 @@ const Navbar = () => {
     </div>
   </div>
 </nav>
+</>
   );
 }
 
