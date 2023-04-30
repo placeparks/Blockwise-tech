@@ -8,7 +8,7 @@ export default function BusinessToWeb3(){
         <div className="row row-cols-1 row-cols-md-3 g-4">
   <div className="col">
   <div className="card" style={{height:"320px"}}>
-      <img src="/Web3.0/vector.png" className={styles.image} alt="..."/>
+      <img src="/Web3.0/Vector.png" className={styles.image} alt="..."/>
       <div className="card-body" style={{marginTop:"90px "}}>
         <h5 className="card-title" >Decentralization</h5>
         <p className="card-text" >One of the crucial aspects of Web 3.0 is decentralization. It is a distributed network that eliminates the involvement of any centralized authority controlling the internet. Users are responsible for their data and content.</p>
