@@ -6,7 +6,7 @@ export default function Solution(){
             <h1>Prime Modules Of Our Exchange Software Development Solution</h1>
             <p>Our fully-featured, highly extensile, scalable, and dependable white label bitcoin exchange solution includes thefollowing key modules:</p>
         
-        <img src='/Exchange/Solution.png' alt=''/>
+        <img src='/Exchange/solution.png' alt=''/>
         <div className={styles.questions}>
             <h3>Client App Dashboard</h3>
             <p> &#9989; User-authentication and authorization</p>
