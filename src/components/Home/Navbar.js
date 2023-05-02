@@ -7,7 +7,7 @@ const Navbar = () => {
 <nav className="navbar navbar-expand-lg bg-body-tertiary">
   <div className="container-fluid">
     <div className='logo'>
-    <img className='logo-img' src='logo.png'/>
+    <img className='logo-img' src='/logo.png'/>
     </div>
     <button className="navbar-toggler"type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
@@ -25,10 +25,10 @@ const Navbar = () => {
           <Link className="nav-link" to="/Nft">NFT</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="">Defi</Link>
+          <Link className="nav-link" to="/Defi">Defi</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="">Exchange</Link>
+          <Link className="nav-link" to="/Exchange">Exchange</Link>
         </li>
         <li className="nav-item">
           <Link className="nav-link" to="">Wallet</Link>
