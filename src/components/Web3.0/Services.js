@@ -18,7 +18,7 @@ export default function Connect(){
   </div>
   <div className="col">
   <div className="card" style={{height:"18rem", paddingTop:"20px"}}>
-      <img style={{height:"100px", width:"100px", alignSelf:"center"}} src="/Web3.0/vector4.png" className="card-img-top" alt="..."/>
+      <img style={{height:"100px", width:"100px", alignSelf:"center"}} src="/Web3.0/Vector4.png" className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Expert Team</h5>
         <p className="card-text">We have 500+ experts who help you refine your offering, suggest the best tech approach, and even help set up communities and campaigns.</p>
@@ -27,7 +27,7 @@ export default function Connect(){
   </div>
   <div className="col">
   <div className="card" style={{height:"18rem", paddingTop:"20px"}}>
-      <img style={{height:"100px", width:"100px", alignSelf:"center"}} src="/Web3.0/vector7.png" className="card-img-top" alt="..."/>
+      <img style={{height:"100px", width:"100px", alignSelf:"center"}} src="/Web3.0/Vector7.png" className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Rapid Development</h5>
         <p className="card-text">We deliver customized products suited to your target audience. A coherent roadmap ensures smooth and accelerated development and deployment.</p>
@@ -37,7 +37,7 @@ export default function Connect(){
   <div className={styles.sec}>
   <div className="col">
   <div className="card" style={{height:"18rem", paddingTop:"20px"}}>
-      <img style={{height:"100px", width:"100px", alignSelf:"center"}} src="/Web3.0/vector6.png" className="card-img-top" alt="..."/>
+      <img style={{height:"100px", width:"100px", alignSelf:"center"}} src="/Web3.0/Vector6.png" className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Complete Support</h5>
         <p className="card-text">Our work does not end with the product launch. We provide extensive post-delivery services so that you can focus on your growth.</p>
@@ -47,7 +47,7 @@ export default function Connect(){
   </div> 
   <div className="col">
   <div className="card" style={{height:"18rem", paddingTop:"20px"}}>
-      <img style={{height:"100px", width:"100px", alignSelf:"center"}} src="/Web3.0/vector5.png" className="card-img-top" alt="..."/>
+      <img style={{height:"100px", width:"100px", alignSelf:"center"}} src="/Web3.0/Vector5.png" className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Meaningful Outcomes</h5>
         <p className="card-text">We create a tangible impact. We make sure you generate value from your investments.</p>
