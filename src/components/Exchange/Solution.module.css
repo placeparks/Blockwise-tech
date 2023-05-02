@@ -1,0 +1,24 @@
+.section1{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 40px;
+
+position: absolute;
+height: 730px;
+width: 100%;
+top: 5870px;
+color: white;
+background: #5350DF;
+border-radius: 0px;
+}
+
+.section1 img{
+    margin-left: -45%;
+}
+
+.questions{
+    margin-left: 40%;
+    margin-top: -28%;
+}
