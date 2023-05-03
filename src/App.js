@@ -6,8 +6,9 @@ import Metaverse from './components/Metaverse';
 import Nft from './components/Nft';
 import Defi from './components/Defi';
 import Exchange from './components/Exchange';
-
+import Wallet from './components/Wallet';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 function App() {
   console.log(window.location);
   return (
@@ -23,10 +24,12 @@ function App() {
         <Route exact path="/Nft" element={<Nft />} />
         <Route exact path="/Defi" element={<Defi />} />
         <Route exact path="/Exchange" element={<Exchange />} />
+        <Route exact path="/Wallet" element={<Wallet />} />
       </Routes>
     </BrowserRouter>
 
     </div>
   );
 }
+
 export default App;
