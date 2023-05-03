@@ -34,7 +34,7 @@ const Navbar = () => {
               <Link className="nav-link" to="/Wallet">Wallet</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="">Blockchain</Link>
+          <Link className="nav-link" to="/Blockchain">Blockchain</Link>
         </li>
         <li className="nav-item">
           <Link className="nav-link" to="">Coin Development</Link>
