@@ -7,6 +7,7 @@ import Nft from './components/Nft';
 import Defi from './components/Defi';
 import Exchange from './components/Exchange';
 import Wallet from './components/Wallet';
+import Blockchain from './components/Blockchain';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
         <Route exact path="/Defi" element={<Defi />} />
         <Route exact path="/Exchange" element={<Exchange />} />
         <Route exact path="/Wallet" element={<Wallet />} />
+             <Route exact path="/Blockchain" element={<Blockchain />} />
       </Routes>
     </BrowserRouter>
 
