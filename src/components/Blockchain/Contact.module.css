@@ -8,7 +8,7 @@ padding: 40px;
 position: absolute;
 height: fit-content;
 width: 100%;
-top: 4220px;
+top: 4120px;
 color: aliceblue;
 background: #343434;
 border-radius: 0px;
@@ -18,7 +18,7 @@ border-radius: 0px;
 }
 
 .table{
-    margin-top: 300px;
+    margin-top: 200px;
     width: 550px;
    
 }
