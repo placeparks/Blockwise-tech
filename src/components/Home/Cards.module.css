@@ -54,21 +54,24 @@ width: 100%;
   @media (max-width: 767px) {
     .cardLayout {
         padding: 20px;
-        margin-top: -90px;
+        margin-top: -170px;
       }
       
       .cardLayout h1 {
         width: 100%;
         font-size: 36px;
-        line-height: 44px;
+        line-height: 47px;
         text-align: center;
       }
       
       .cardLayout p {
-        width: 100%;
+        width: 80%;
         font-size: 18px;
         line-height: 24px;
         text-align: center;
+      }
+      .cardLayout h3{
+       font-size: 14px;
       }
     
 }
