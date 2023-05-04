@@ -1,0 +1,19 @@
+.section1{
+    font-family: 'Foldit', cursive;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 40px;
+
+position: absolute;
+height: 100%;
+left: 0px;
+right: 0px;
+top: 90px;
+background: #012044;
+border-radius: 0px;
+}
+.section1 h1{
+    font-size: 115px;
+}
