@@ -3,6 +3,7 @@ import styles from './Cards.module.css';
 export default function Cards(){
     return(
         <div className={styles.section1}>
+          <div className={styles.card2}>
             <div className="card mb-5" style={{maxWidth:"100%", background:"transparent", border:"none"}}>
   <div className="row g-0">
     <div className="col-md-4">
@@ -15,7 +16,9 @@ export default function Cards(){
     </div>
   </div>
 </div>
+</div>
 
+<div className={styles.cards}>
 <div className="card mb-5" style={{maxWidth:"100%", background:"transparent", border:"none"}}>
 <div className="row g-0">
     <div className="col-md-8">
@@ -24,11 +27,14 @@ export default function Cards(){
         <p className="card-text">The Metaverse presents an exciting opportunity for the fashion industry, providing a virtual platform for designers and consumers to connect and create. With endless possibilities for customization and personalization, the Metaverse offers a new era of interactive and immersive fashion experiences. From virtual try-ons to runway shows, the Metaverse allows for endless creativity and innovation, redefining the way we approach fashion. Join us as we pioneer the future of fashion in the Metaverse and discover a new dimension of style.</p>      </div>
     </div>
     <div className="col-md-4">
-      <img src="/Metaverse/fashion.png"  className="img-fluid rounded-start" alt="..."/>
+      <div className={styles.image}>
+      <img src="/Metaverse/fashion.png"  className="img-fluid rounded-start" alt="..."/></div>
     </div>
   </div>
 </div>
+</div>
 
+<div className={styles.card2}>
 <div className="card mb-5" style={{maxWidth:"100%", background:"transparent", border:"none"}}>
   <div className="row g-0">
     <div className="col-md-4">
@@ -41,7 +47,9 @@ export default function Cards(){
     </div>
   </div>
 </div>
+</div>
 
+<div className={styles.cards}>
 <div className="card mb-5" style={{maxWidth:"100%", background:"transparent", border:"none"}}>
 <div className="row g-0">
     <div className="col-md-8">
@@ -50,11 +58,15 @@ export default function Cards(){
         <p className="card-text">The Metaverse is a virtual world that can offer endless opportunities for tourism. Imagine exploring new destinations, learning about different cultures, and experiencing new adventures, all from the comfort of your own home. With Metaverse tourism, you can travel without boundaries and without the limitations of time or budget. The Metaverse offers a new level of immersion, allowing you to fully immerse yourself in new environments and create unforgettable memories. Join us in this digital revolution and discover a new way to experience the world.</p>      </div>
     </div>
     <div className="col-md-4">
+      <div className={styles.image}>
       <img src="/Metaverse/tourism.png"  className="img-fluid rounded-start" alt="..."/>
+    </div>
     </div>
   </div>
 </div>
+</div>
 
+<div className={styles.card2}>
 <div className="card mb-5" style={{maxWidth:"100%", background:"transparent", border:"none"}}>
   <div className="row g-0">
     <div className="col-md-4">
@@ -67,7 +79,9 @@ export default function Cards(){
     </div>
   </div>
 </div>
+</div>
 
+<div className={styles.cards}>
 <div className="card mb-5" style={{maxWidth:"100%", background:"transparent", border:"none"}}>
 <div className="row g-0">
     <div className="col-md-8">
@@ -76,11 +90,15 @@ export default function Cards(){
         <p className="card-text">Are you ready for the future of digital interaction and socialization? Introducing Metaverse Development, the next generation of online experiences. Immerse yourself in a virtual world where you can play, learn, and connect with others from anywhere in the world. From gaming to education, entertainment to commerce, the potential applications of the Metaverse are endless. Join the revolution and shape the future of online experiences. Step into a new dimension of digital possibilities with Metaverse Development.</p>      </div>
     </div>
     <div className="col-md-4">
+      <div className={styles.image}>
       <img src="/Metaverse/socialMedia.png"  className="img-fluid rounded-start" alt="..."/>
+    </div>
     </div>
   </div>
 </div>
+</div>
 
+<div className={styles.card2}>
 <div className="card mb-5" style={{maxWidth:"100%", background:"transparent", border:"none"}}>
   <div className="row g-0">
     <div className="col-md-4">
@@ -93,7 +111,9 @@ export default function Cards(){
     </div>
   </div>
 </div>
+</div>
 
+<div className={styles.cards}>
 <div className="card mb-5" style={{maxWidth:"100%", background:"transparent", border:"none"}}>
 <div className="row g-0">
     <div className="col-md-8">
@@ -102,11 +122,15 @@ export default function Cards(){
         <p className="card-text">The Metaverse is revolutionizing the way we shop and experience e-commerce. Imagine a virtual world where customers can try on clothes, test out products, and even walk through a virtual store before making a purchase. It's a game-changer for online retail, offering a personalized and immersive shopping experience that can increase customer engagement and loyalty. From fashion to furniture, the Metaverse has endless potential for e-commerce businesses to connect with customers in new and exciting ways. Don't miss out on the future of retail - join the Metaverse revolution today!</p>      </div>
     </div>
     <div className="col-md-4">
+    <div className={styles.image}>
       <img src="/Metaverse/ecommerce.png"  className="img-fluid rounded-start" alt="..."/>
+    </div>
     </div>
   </div>
 </div>
+</div>
 
+<div className={styles.card2}>
 <div className="card mb-5" style={{maxWidth:"100%", background:"transparent", border:"none"}}>
   <div className="row g-0">
     <div className="col-md-4">
@@ -119,7 +143,7 @@ export default function Cards(){
     </div>
   </div>
 </div>
-
+</div>
 
         </div>
     )
