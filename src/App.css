@@ -41,9 +41,8 @@
 .logo {
   display: flex;
   align-items: center;
-  padding-right: 100px;
+  padding-right: 300px;
 }
-
 .logo img {
   width: 100px;
   height: 70.89px;
