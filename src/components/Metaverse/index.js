@@ -7,7 +7,7 @@ export default function MainMeta(){
     return(
         <>
         <div className={styles.section1}>
-    <img src='/Metaverse/Rectangle.png' alt='' />
+   <img className={styles.image1} src='/Metaverse/Rectangle.png' alt='' />
 <h1>Metaverse Development</h1>
 <h5>Step into a new dimension of digital possibilities with Metaverse Development.</h5>
         </div>
