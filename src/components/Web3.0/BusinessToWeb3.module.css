@@ -26,8 +26,7 @@ padding: 40px 40px 90px;
 gap: 40px;
 position: absolute;
 height: 364px;
-left: 0px;
-right: 0px;
+width: 100%;
 top: 750px;
 background: #678398;
 }
@@ -51,4 +50,24 @@ line-height: 40px;
 text-align: center;
 color: #FFFFFF;
 
+}
+
+@media (max-width: 767px) {
+    .section1{
+    top: 2300px;
+    }
+
+    .section2{
+  height: fit-content;
+    top: 1100px;
+   
+    }
+    .section2 button{
+    padding: 3px 28px;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 30px;
+  
+    
+    }
 }
