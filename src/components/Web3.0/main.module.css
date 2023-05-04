@@ -82,3 +82,64 @@ top: 960px;
 background: #F1F1F1;
 }
 
+@media (max-width: 767px) {
+  
+    .mainBody{
+      position: sticky;
+      padding: 10px 15px;
+    
+    }
+    
+    .image1 {
+      width: 100%;
+      height: auto;
+      margin-top: -550px;
+      margin-left: 0%;
+      
+    }
+
+    .mainBody h1 {
+        font-size: 27px;
+        line-height: 30px;
+        z-index: 1;
+        font-weight: 700;
+        margin-top: 250px;
+        margin-left: 5%;
+      }
+      .mainBody p{
+          width: 60%;
+          z-index: 1;
+          font-weight: 700;
+          text-align: center;
+          margin-left: 20%;
+      }
+      .mainBody button{
+margin-left: 20%;
+      }
+      .section2{
+  
+    flex-direction: column;
+    padding: 0px 0px;
+    height: 325px;
+    width: 100%;
+    top: 835px;
+  
+    }
+    .section2 h1{
+        width: 300px;
+    height: 105px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 150%;
+
+    }
+    .section3{
+    top: 1250px;
+    height: fit-content;
+    }
+   
+   
+}
