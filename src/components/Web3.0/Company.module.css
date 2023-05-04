@@ -35,3 +35,10 @@ height: 46px;
     background: #904230;
 border-radius: 10px;
 }
+@media (max-width: 767px) {
+
+    .section1{
+     top: 3930px;
+      
+    }
+}
