@@ -31,34 +31,20 @@ const Navbar = () => {
           <Link className="nav-link" to="/Exchange">Exchange</Link>
         </li>
         <li className="nav-item">
-              <Link className="nav-link" to="/Wallet">Wallet</Link>
+          <Link className="nav-link" to="/Wallet">Wallet</Link>
         </li>
         <li className="nav-item">
           <Link className="nav-link" to="/Blockchain">Blockchain</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="">Coin Development</Link>
+          <Link className="nav-link" to="/Coin">Coin Development</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="">Blog</Link>
-        </li>
-        <li className="nav-item dropdown">
-          <Link className="nav-link dropdown-toggle" to="" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-           About us
-          </Link>
-          <ul className="dropdown-menu">
-            <li><Link className="dropdown-item" to="">Action</Link></li>
-            <li><Link className="dropdown-item" to="">Another action</Link></li>
-            <li><hr className="dropdown-divider"/></li>
-            <li><Link className="dropdown-item" to="">Something else here</Link></li>
-          </ul>
+          <Link className="nav-link" to="/Blog">Blog</Link>
         </li>
        
       </ul>
-      <form className="d-flex" role="search">
-        <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-        <button className="btn btn-outline-success" type="submit">Search</button>
-      </form>
+    
     </div>
   </div>
 </nav>
