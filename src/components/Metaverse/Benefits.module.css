@@ -15,3 +15,9 @@ background: #1E1E1E;
 border-radius: 0px;
 color: aliceblue;
 }
+@media (max-width: 767px) {
+
+    .section1{
+    top: 7100px;
+    }
+}
