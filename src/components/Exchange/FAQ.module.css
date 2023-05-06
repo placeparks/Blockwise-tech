@@ -6,7 +6,7 @@ padding: 40px;
 gap: 20px;
 top: 10190px ;
 position: absolute;
-height: fit-content;
+height: 1432px;
 width: 100%;
 background: #F1F1F1;
 
@@ -22,4 +22,28 @@ border-radius: 0px;
     width: 60%;
     margin-left: 500px;
     color: black;
+}
+@media (max-width: 767px) {
+  
+    .section1{
+        height: fit-content;
+        width: 100%;
+           margin-top: 8000px;
+        background: #F1F1F1;
+        border-radius: 0px;
+        }
+        .section1 h1{
+          text-align: center;
+        }
+     
+        .section1 img{
+       
+        height: 468px;
+    margin-left: 0px;
+        }
+        .questions {
+        width: 350px;
+        margin-left: 0px;
+        margin-top: 50px;
+        }
 }
