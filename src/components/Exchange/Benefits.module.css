@@ -21,3 +21,20 @@ border-radius: 0px;
 .section1 img{
     margin-left: -42%;
 }
+
+@media (max-width: 767px) {
+    .section1{
+    padding: 30px 10px 30px 10px;
+    height: fit-content;
+    margin-top: 4760px;
+    }
+    .questions{
+        margin-left: 0%;
+        margin-top: 0%;
+    }
+    .section1 img{
+        margin-left: 0%;
+        height: 300px;
+        width: 100%;
+    }
+}
