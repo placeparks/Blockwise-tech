@@ -13,3 +13,9 @@ top: 2220px;
 background: #FCFCFF;
 border-radius: 0px;
 }
+
+@media (max-width: 767px) {
+ .section1{
+    top: 3670px;
+ }
+}
