@@ -7,7 +7,7 @@ export default function Services(){
 
             <div className="row row-cols-1 row-cols-md-3 g-4">
   <div className="col">
-  <div className="card">
+  <div className="card h-100">
       <img src="/Exchange/centralized.png" style={{height:"80px", width:"80px", paddingLeft:"10px", paddingTop:"10px"}} className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Centralized Exchange Development</h5>
@@ -16,7 +16,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
- <div className="card">
+ <div className="card h-100">
       <img src="/Exchange/data.png" style={{height:"80px", width:"80px", paddingLeft:"10px", paddingTop:"10px"}}className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Decentralized Exchange Development</h5>
@@ -25,7 +25,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
- <div className="card">
+ <div className="card h-100">
       <img src="/Exchange/network.png" style={{height:"80px", width:"80px", paddingLeft:"10px", paddingTop:"10px"}}className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">P2P Exchange Development</h5>
@@ -34,7 +34,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
- <div className="card">
+ <div className="card h-100">
       <img src="/Exchange/exchanges.png" style={{height:"80px", width:"80px", paddingLeft:"10px", paddingTop:"10px"}}className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Bitcoin Exchange Development</h5>
@@ -43,7 +43,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
- <div className="card">
+ <div className="card h-100">
       <img src="/Exchange/line.png" style={{height:"80px", width:"80px", paddingLeft:"10px", paddingTop:"10px"}}className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Derivatives Exchange Development</h5>
@@ -52,7 +52,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
- <div className="card">
+ <div className="card h-100">
       <img src="/Exchange/graph.png" style={{height:"80px", width:"80px", paddingLeft:"10px", paddingTop:"10px"}} className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Margin Trading Exchange Development</h5>
@@ -61,7 +61,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
- <div className="card">
+ <div className="card h-100">
       <img src="/Exchange/nft.png" style={{height:"80px", width:"80px", paddingLeft:"10px", paddingTop:"10px"}}className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Non Fungible Token Exchange Development</h5>
@@ -70,7 +70,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
- <div className="card">
+ <div className="card h-100">
       <img src="/Exchange/shield.png" style={{height:"80px", width:"80px", paddingLeft:"10px", paddingTop:"10px"}}className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Security Token Exchange Development</h5>
@@ -79,7 +79,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
-   <div className="card">
+   <div className="card h-100">
       <img src="/Exchange/stock.png" style={{height:"80px", width:"80px", paddingLeft:"10px", paddingTop:"10px"}}className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Over-the-counter Trading Platform Development</h5>
