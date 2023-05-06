@@ -21,3 +21,21 @@ border-radius: 0px;
 border-radius: 20px;
 margin-inline: 20px;
 }
+.card{
+    height: "350px" !important ;
+}
+@media (max-width: 767px) {
+    .section1{
+       padding: 60px 40px 90px;
+    gap: 40px;
+   
+    height: fit-content;
+    margin-top: 850px;
+  
+    }
+    
+    .card{
+        height: "500px" !important ;
+    }
+}
+
