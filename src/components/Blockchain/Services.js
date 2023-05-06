@@ -15,7 +15,7 @@ export default function Services(){
     
     <div className="row row-cols-1 row-cols-md-3 g-4">
   <div className="col" data-aos="zoom-out-down" data-aos-duration="3000">
-  <div className="card" style={{height:"380px", border:"none", backgroundColor:"transparent", color:"white"}}>
+  <div className="card h-100" style={{border:"none", backgroundColor:"transparent", color:"white"}}>
       <img src="/Blockchain/1.png" style={{height:"100px", width:"110px", paddingLeft:"10px", paddingTop:"10px"}} className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title" style={{fontWeight:"600"}}>Blockchain Development </h5>
@@ -24,7 +24,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col" data-aos="zoom-out-down" data-aos-duration="3000">
-  <div className="card" style={{height:"380px", border:"none", backgroundColor:"transparent", color:"white"}}>
+  <div className="card h-100" style={{ border:"none", backgroundColor:"transparent", color:"white"}}>
       <img src="/Blockchain/2.png" style={{height:"100px", width:"130px", paddingLeft:"10px", paddingTop:"10px"}}className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title" style={{fontWeight:"600"}}>Blockchain Consulting</h5>
@@ -33,7 +33,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col" data-aos="zoom-out-down" data-aos-duration="3000">
-  <div className="card" style={{height:"380px", border:"none", backgroundColor:"transparent", color:"white"}}>
+  <div className="card h-100" style={{ border:"none", backgroundColor:"transparent", color:"white"}}>
       <img src="/Blockchain/3.png" style={{height:"100px", width:"140px", paddingLeft:"10px", paddingTop:"10px"}}className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title" style={{fontWeight:"600"}}>Blockchain Integration </h5>
@@ -42,7 +42,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col" data-aos="zoom-out-down" data-aos-duration="3000">
-  <div className="card" style={{height:"380px", border:"none", backgroundColor:"transparent", color:"white"}}>
+  <div className="card h-100" style={{ border:"none", backgroundColor:"transparent", color:"white"}}>
       <img src="/Blockchain/4.png" style={{height:"100px", width:"120px", paddingLeft:"10px", paddingTop:"10px"}}className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title" style={{fontWeight:"600"}}>Digital Ledger Technology</h5>
@@ -51,7 +51,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col" data-aos="zoom-out-down" data-aos-duration="3000">
-  <div className="card" style={{height:"380px", border:"none", backgroundColor:"transparent", color:"white"}}>
+  <div className="card h-100" style={{ border:"none", backgroundColor:"transparent", color:"white"}}>
       <img src="/Blockchain/5.png" style={{height:"100px", width:"130px", paddingLeft:"10px", paddingTop:"10px"}}className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title" style={{fontWeight:"600"}}>Digital Notary Services</h5>
@@ -60,7 +60,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col" data-aos="zoom-out-down" data-aos-duration="3000">
-  <div className="card" style={{height:"380px", border:"none", backgroundColor:"transparent", color:"white"}}>
+  <div className="card h-100" style={{border:"none", backgroundColor:"transparent", color:"white"}}>
       <img src="/Blockchain/6.png" style={{height:"100px", width:"150px", paddingLeft:"10px", paddingTop:"10px"}} className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title" style={{fontWeight:"600"}}>Blockchain Solutions for Any Industry</h5>
