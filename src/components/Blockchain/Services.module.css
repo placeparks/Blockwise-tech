@@ -17,3 +17,21 @@ border-radius: 0px;
 .section1 h6{
     text-align: center;
 }
+
+@media (max-width: 767px) {
+    .section1{
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 40px 40px 10px;
+    position: absolute;
+    width: 100%;
+    height: fit-content;
+    margin-top: 2980px;
+
+    }
+    .section1 h1{
+        padding-top: 20px;
+    }
+}
