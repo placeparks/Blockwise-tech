@@ -14,7 +14,7 @@ export default function Benefits(){
 
             <div className="row row-cols-1 row-cols-md-3 g-4">
   <div className="col">
-    <div className="card" style={{height:"350px"}} >
+    <div className="card">
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/simplify.png" className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>Process Simplification</h5>
@@ -23,7 +23,7 @@ export default function Benefits(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"350px"}}>
+    <div className="card">
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/installation.png" className="card-img-top" alt="..."/>
       <div className="card-body">
        <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>Process Automation</h5>
@@ -32,7 +32,7 @@ export default function Benefits(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"350px"}}>
+    <div className="card">
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/lowCost.png" className="card-img-top" alt="..."/>
       <div className="card-body">
        <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>Reduced Transaction Cost</h5>
@@ -41,7 +41,7 @@ export default function Benefits(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"350px"}}>
+    <div className="card" >
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/controls.png" className="card-img-top" alt="..."/>
       <div className="card-body">
        <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>Increased Control</h5>
@@ -50,7 +50,7 @@ export default function Benefits(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"350px"}}>
+    <div className="card">
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/transparency.png" className="card-img-top" alt="..."/>
       <div className="card-body">
        <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>Transparency</h5>
@@ -59,7 +59,7 @@ export default function Benefits(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"350px"}}>
+    <div className="card">
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/partnership.png" className="card-img-top" alt="..."/>
       <div className="card-body">
        <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>Faster Settlement</h5>
@@ -67,17 +67,19 @@ export default function Benefits(){
       </div>
     </div>
   </div>
+
   <div className="col">
-    <div className="card" style={{height:"350px"}} >
-      <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/liquidity.png" className="card-img-top" alt="..."/>
+     <div className="card" >
+          <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/liquidity.png" className="card-img-top" alt="..."/>
       <div className="card-body">
        <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>Liquidity</h5>
         <p className="card-text">DeFi opens doors to financial services for those previously excluded from traditional banking systems, providing greater financial inclusion. From lending to payments and beyond, the decentralized nature of DeFi creates a more accessible and equitable financial landscape. With DeFi, individuals who were once underbanked or unbanked can now participate in global financial markets and access a wider range of opportunities.</p>
       </div>
     </div>
   </div>
+
   <div className="col">
-    <div className="card" style={{height:"350px"}}>
+    <div className="card">
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/innovation.png" className="card-img-top" alt="..."/>
       <div className="card-body">
        <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>Innovation Enablement</h5>
@@ -86,7 +88,7 @@ export default function Benefits(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"350px"}}>
+    <div className="card">
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/security.png" className="card-img-top" alt="..."/>
       <div className="card-body">
        <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>Enhanced Security</h5>
