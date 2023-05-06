@@ -18,3 +18,12 @@ color: white;
 .section1 p{
     margin-bottom: 70px;
 }
+@media (max-width: 767px) {
+    .section1{
+ margin-top: 310px;
+    }
+    .section1 p{
+        margin-bottom: 70px;
+        text-align: center;
+    }
+}
