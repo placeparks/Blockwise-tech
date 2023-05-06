@@ -15,3 +15,11 @@ top: 2647px;
 background: #0A2A42;
 border-radius: 0px;
 }
+@media (max-width: 767px) {
+    .section1{
+        background: #0A2A42;
+        border-radius: 0px;
+        margin-top: -81%;
+        height: fit-content;
+    }
+}
