@@ -3,77 +3,69 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 20px 40px;
+    padding: 40px 40px 90px;
+    gap: 40px;
     position: absolute;
-    padding-bottom: 40px;
-    height: 600px;
+    height: fit-content;
     width: 100%;
-    top: 635px;
-    background: #0A2A42;
-    color: white;
+    top: 2690px;
+    background: #D6DCE0;
     border-radius: 0px;
-    font-family: 'Inter';
-    font-style: normal;
-}
-
-.section1 img {
-    margin-left: -50%;
-    margin-top: -5%;
-}
-
-.section1 h3 {
-    width: 50%;
-    margin-left: 50%;
-    margin-top: -28%;
-}
-
-.section1 h6 {
-    width: 50%;
-    margin-left: 50%;
-    line-height: 25px;
-}
-
-/* For tablets and medium-sized devices */
-@media (max-width: 768px) {
+  }
+  
+  .section1 p {
+    width: 60%;
+    text-align: center;
+    font-weight: 600;
+  }
+  
+  .section1 h4 {
+    margin-bottom: -15px;
+  }
+  
+  .section1 h3 {
+    font-size: 18px;
+    text-align: center;
+  }
+  
+  /* Extra small devices (phones, 599px and down) */
+  @media only screen and (max-width: 599px) {
     .section1 {
-        height: auto;
-        top: auto;
+      margin-top: 3000px;
     }
-    .section1 img {
-        margin-left: 0;
-        margin-top: 0;
+  }
+  
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+    .section1 p {
+      width: 80%;
+    }
+  }
+  
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+    .section1 p {
+      width: 75%;
+    }
+  }
+  
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+    .section1 p {
+      width: 70%;
     }
     .section1 h3 {
-        width: 80%;
-        margin-left: 10%;
-        margin-top: 2%;
+      font-size: 20px;
     }
-    .section1 h6 {
-        width: 80%;
-        margin-left: 10%;
-    }
-}
-
-/* For mobile devices */
-@media (max-width: 480px) {
-    .section1 {
-        padding: 20px;
-        height: auto;
-        top: auto;
-    }
-    .section1 img {
-        margin-left: 0;
-        margin-top: 0;
-        height: 300px;
-        width: 100%;
+  }
+  
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+    .section1 p {
+      width: 60%;
     }
     .section1 h3 {
-        width: 100%;
-        margin-left: 0;
-        margin-top: 2%;
+      font-size: 22px;
     }
-    .section1 h6 {
-        width: 100%;
-        margin-left: 0;
-    }
-}
+  }
+  
