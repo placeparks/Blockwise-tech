@@ -17,3 +17,8 @@ border-radius: 0px;
 .section1 h1{
     font-size: 115px;
 }
+@media (max-width: 767px) {
+    .section1 h1{
+        font-size: 70px;
+    }
+}
