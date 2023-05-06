@@ -30,9 +30,9 @@
   }
   
   /* Extra small devices (phones, 599px and down) */
-  @media only screen and (max-width: 599px) {
+  @media (max-width: 767px) {
     .section1 {
-      margin-top: 3800px;
+      margin-top: 3900px;
     }
     .section1 h1 {
       text-align: center;
@@ -49,47 +49,6 @@
     }
   }
   
-  /* Small devices (portrait tablets and large phones, 600px and up) */
-  @media only screen and (min-width: 600px) {
-    .section1 img {
-      margin-left: -300px;
-    }
-    .questions {
-      width: 70%;
-      margin-left: 200px;
-    }
-  }
-  
-  /* Medium devices (landscape tablets, 768px and up) */
-  @media only screen and (min-width: 768px) {
-    .section1 img {
-      margin-left: -500px;
-    }
-    .questions {
-      width: 60%;
-      margin-left: 300px;
-    }
-  }
-  
-  /* Large devices (laptops/desktops, 992px and up) */
-  @media only screen and (min-width: 992px) {
-    .section1 img {
-      margin-left: -700px;
-    }
-    .questions {
-      width: 60%;
-      margin-left: 400px;
-    }
-  }
-  
-  /* Extra large devices (large laptops and desktops, 1200px and up) */
-  @media only screen and (min-width: 1200px) {
-    .section1 img {
-      margin-left: -900px;
-    }
-    .questions {
-      width: 60%;
-      margin-left: 500px;
-    }
-  }
+
+
   
