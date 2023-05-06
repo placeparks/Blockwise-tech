@@ -24,3 +24,12 @@ border-radius: 0px;
 border-radius: 20px;
 margin-inline: 20px;
 }
+@media (max-width: 767px) {
+    .section1{
+    height: fit-content;
+    margin-top: 2850px;
+   
+    }
+    
+}
+
