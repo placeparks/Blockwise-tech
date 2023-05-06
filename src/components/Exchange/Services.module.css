@@ -14,9 +14,7 @@ background: #ffffff;
 border-radius: 0px;
 }
 
-.card{
-    height: "410px" !important;
-}
+
 
 @media (max-width: 767px) {
     .section1{
