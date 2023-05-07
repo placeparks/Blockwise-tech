@@ -20,7 +20,6 @@ export default function Layout() {
 <p className={styles.topHeading}>Blockchain</p>
 <h2 className={styles.topHeading2}>Decentralizing The World</h2>
 <p className={styles.para}>Since 2016 Through Forward-Thinking Enterprise Blockchain Solutions</p>
-    <button className={styles.btn1}>Contact us</button>
     </div>
    <div className={styles.secondSection}>
     <h1>Embrace Web 3.0! <br/> Embrace Transformation!</h1>
