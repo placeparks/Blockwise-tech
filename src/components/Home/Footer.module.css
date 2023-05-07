@@ -6,14 +6,14 @@ align-items: center;
 position: absolute;
 width: 100%;
 height: 373px;
-margin-top: 7060px;
+margin-top: 6860px;
 background: linear-gradient(360deg, #904230 0%, #FFE45E 210.55%);
 border-radius: 0px;
 }
 .servicesSec{
     color: white;
     line-height: 12px;
-    margin-left: -1100px;
+    margin-left: -900px;
     display: inline-block;
     margin-top: -80px;
 }
@@ -24,19 +24,19 @@ border-radius: 0px;
 display: inline-block;
 margin-top: -290px;
 color: white;
-margin-left: -200px;
+margin-left: -180px;
 }
 .contactSec img{
     height: 20px;
 }
 .aboutUs{
     color: white;
-    margin-left: 500px;
+    margin-left: 430px;
     margin-top: -150px;
 }
 .socialSec{
     color: white;
-    margin-left: 1050px;
+    margin-left: 930px;
     margin-top: -190px;
 }
 .socialSec img{
