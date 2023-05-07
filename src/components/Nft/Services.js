@@ -14,7 +14,7 @@ export default function Services(){
 
             <div className="row row-cols-1 row-cols-md-3 g-4">
   <div className="col">
-    <div className="card" style={{height:"400px"}} data-aos="zoom-in-down">
+    <div className="card h-100" data-aos="zoom-in-down">
       <img  data-aos="fade-up"
      data-aos-duration="3000" style={{height:"90px", width:"90px", alignSelf:"center", paddingTop:"20px"}} src="/Nfts/art.png" className="card-img-top" alt="..."/>
       <div className="card-body">
@@ -24,7 +24,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"400px"}} data-aos="zoom-in-down">
+    <div className="card h-100" data-aos="zoom-in-down">
       <img  data-aos="fade-up"
      data-aos-duration="3000" style={{height:"90px", width:"90px", alignSelf:"center", paddingTop:"20px"}} src="/Nfts/music.png" className="card-img-top" alt="..."/>
       <div className="card-body">
@@ -34,7 +34,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"400px"}} data-aos="zoom-in-down">
+    <div className="card h-100" data-aos="zoom-in-down">
       <img  data-aos="fade-up"
      data-aos-duration="3000" style={{height:"90px", width:"90px", alignSelf:"center", paddingTop:"20px"}} src="/Nfts/fashion.png" className="card-img-top" alt="..."/>
       <div className="card-body">
@@ -44,7 +44,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"400px"}} data-aos="zoom-in-down">
+    <div className="card h-100"  data-aos="zoom-in-down">
       <img  data-aos="fade-up"
      data-aos-duration="3000" style={{height:"90px", width:"90px", alignSelf:"center", paddingTop:"20px"}} src="/Nfts/game.png" className="card-img-top" alt="..."/>
       <div className="card-body">
@@ -54,7 +54,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"400px"}} data-aos="zoom-in-down">
+    <div className="card h-100" data-aos="zoom-in-down">
       <img  data-aos="fade-up"
      data-aos-duration="3000" style={{height:"90px", width:"90px", alignSelf:"center", paddingTop:"20px"}} src="/Nfts/realEstate.png" className="card-img-top" alt="..."/>
       <div className="card-body">
@@ -64,7 +64,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"400px"}} data-aos="zoom-in-down">
+    <div className="card h-100"  data-aos="zoom-in-down">
       <img  data-aos="fade-up"
      data-aos-duration="3000" style={{height:"90px", width:"90px", alignSelf:"center", paddingTop:"20px"}} src="/Nfts/loans.png" className="card-img-top" alt="..."/>
       <div className="card-body">
@@ -74,7 +74,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"400px"}} data-aos="zoom-in-down">
+    <div className="card h-100"  data-aos="zoom-in-down">
       <img  data-aos="fade-up"
      data-aos-duration="3000" style={{height:"90px", width:"90px", alignSelf:"center", paddingTop:"20px"}} src="/Nfts/content.png" className="card-img-top" alt="..."/>
       <div className="card-body">
@@ -84,7 +84,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"400px"}} data-aos="zoom-in-down">
+    <div className="card h-100" data-aos="zoom-in-down">
       <img  data-aos="fade-up"
      data-aos-duration="3000" style={{height:"90px", width:"90px", alignSelf:"center", paddingTop:"20px"}} src="/Nfts/domain.png" className="card-img-top" alt="..."/>
       <div className="card-body">
@@ -94,7 +94,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"400px"}} data-aos="zoom-in-down">
+    <div className="card h-100" data-aos="zoom-in-down">
       <img  data-aos="fade-up"
      data-aos-duration="3000" style={{height:"90px", width:"90px", alignSelf:"center", paddingTop:"20px"}} src="/Nfts/Gen.png" className="card-img-top" alt="..."/>
       <div className="card-body">
@@ -104,7 +104,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"400px"}} data-aos="zoom-in-down">
+    <div className="card h-100" data-aos="zoom-in-down">
       <img  data-aos="fade-up"
      data-aos-duration="3000" style={{height:"90px", width:"90px", alignSelf:"center", paddingTop:"20px"}} src="/Nfts/exchange.png" className="card-img-top" alt="..."/>
       <div className="card-body">
@@ -114,7 +114,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"400px"}} data-aos="zoom-in-down">
+    <div className="card h-100" data-aos="zoom-in-down">
       <img  data-aos="fade-up"
      data-aos-duration="3000" style={{height:"90px", width:"90px", alignSelf:"center", paddingTop:"20px"}} src="/Nfts/contracts.png" className="card-img-top" alt="..."/>
       <div className="card-body">
@@ -124,7 +124,7 @@ export default function Services(){
     </div>
   </div>
   <div className="col">
-    <div className="card" style={{height:"400px"}} data-aos="zoom-in-down">
+    <div className="card h-100" data-aos="zoom-in-down">
       <img  data-aos="fade-up"
      data-aos-duration="3000" style={{height:"90px", width:"90px", alignSelf:"center", paddingTop:"20px"}} src="/Nfts/mining.png" className="card-img-top" alt="..."/>
       <div className="card-body">
