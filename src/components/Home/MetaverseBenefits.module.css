@@ -91,3 +91,32 @@
         margin-left:15px;
       }
 }
+@media only screen and (min-width: 834px) and (max-width: 1194px) {
+  .box1, .box2, .box3, .box4, .box5{
+    width: 350px;
+  text-align: center;
+    padding: 10px;
+    border: transparent;
+    background: transparent;
+    color: white;
+  }
+  .box1{
+    margin-left: -750px;
+    margin-top: 50px;
+  }
+  .box2{
+    margin-top: -245px;
+  }
+  .box3{
+    margin-left: 780px;
+    margin-top: -245px;
+  }
+  .box4{
+    margin-left: -500px;
+    margin-top: 95px;
+  }
+  .box5{
+    margin-left: 500px;
+    margin-top: -235px;
+  }
+}
