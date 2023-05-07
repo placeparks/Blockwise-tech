@@ -54,12 +54,12 @@ color: #FFFFFF;
 
 @media (max-width: 767px) {
     .section1{
-    top: 2300px;
+    top: 2400px;
     }
 
     .section2{
   height: fit-content;
-    top: 1200px;
+    top: 1100px;
    
     }
     .section2 button{
