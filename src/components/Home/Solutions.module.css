@@ -37,3 +37,9 @@
     padding: 15px 15px;
   }   
 }
+@media only screen and (min-width: 834px) and (max-width: 1194px) {
+  .cardBody1{
+    height: 250px;
+    padding: 15px 15px;
+  } 
+}
