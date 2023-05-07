@@ -9,7 +9,7 @@
   height: fit-content;
   position: absolute;
 width: 100%;
-  top: 1310px;
+  top: 1100px;
 
   background: #1E1E1E;
   border-radius: 0px;
@@ -54,7 +54,7 @@ width: 100%;
   @media (max-width: 767px) {
     .cardLayout {
         padding: 20px;
-        margin-top: -170px;
+        margin-top: 270px;
       }
       
       .cardLayout h1 {
