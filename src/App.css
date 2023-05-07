@@ -43,11 +43,13 @@
   align-items: center;
   padding-right: 300px;
 }
+
 .logo img {
   width: 190px;
   height: 70.89px;
   filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.25));
 }
+
 /* Clients.js css section */
 .clientSection{
   display: flex;
@@ -100,8 +102,22 @@ border-radius: 0px;
             margin-left: 0px;
             margin-bottom: 30px;
             }
-     .logo {
+            .logo {
         
               padding-right: 80px;
-            }   
+            }    
+     
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .logo {
+    display: flex;
+    align-items: center;
+    padding-right: 70px;
+  }
+  
+.logo img {
+  width: 170px;
+  height: 70px;
+  filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.25));
+}
 }
