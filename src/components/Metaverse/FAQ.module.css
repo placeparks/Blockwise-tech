@@ -27,7 +27,7 @@ border-radius: 0px;
     .section1{
         height: fit-content;
         width: 100%;
-           top: 9100px;
+           top: 10000px;
         background: #F1F1F1;
         border-radius: 0px;
         }
@@ -45,4 +45,32 @@ border-radius: 0px;
         margin-left: 0px;
         margin-top: 50px;
         }
+}
+
+@media only screen and (min-width: 834px) and (max-width: 1194px) {
+
+    .section1{
+        display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    gap: 20px;
+    
+    position: absolute;
+    height: fit-content;
+    width: 100%;
+    top: 4310px;
+    
+    background: #F1F1F1;
+    border-radius: 0px;
+    }
+    .section1 img{
+        margin-left: -700px;
+    }
+    .questions{
+        margin-top: -58%;
+        line-height: 30px;
+        width: 60%;
+        margin-left: 450px;
+    }
 }
