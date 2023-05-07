@@ -20,7 +20,10 @@ color: white;
 }
 @media (max-width: 767px) {
     .section1{
- margin-top: 310px;
+ margin-top: 400px;
+    }
+    .card{
+        height: fit-content !important;
     }
     .section1 p{
         margin-bottom: 70px;
