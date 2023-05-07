@@ -4,7 +4,7 @@
     align-items: center;
     padding: 40px;
     gap: 20px;
-    top: 3730px;
+    top: 4040px;
     position: absolute;
     height: fit-content;
     width: 100%;
@@ -32,7 +32,7 @@
   /* Extra small devices (phones, 599px and down) */
   @media (max-width: 767px) {
     .section1 {
-      margin-top: 3900px;
+      margin-top: 4750px;
     }
     .section1 h1 {
       text-align: center;
@@ -71,9 +71,9 @@
         margin-top: 50px;
       }
   }
- @media only screen and (min-width: 834px) and (max-width: 1194px) {
+  @media only screen and (min-width: 834px) and (max-width: 1194px) {
     .section1 {
-        margin-top: 120px;
+        margin-top: 110px;
       }
       .section1 img {
         margin-left: -650px;
@@ -92,4 +92,5 @@
         margin-top: 50px;
       }
   }
+  
   
