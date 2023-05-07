@@ -11,11 +11,7 @@ export default function Home(){
             <img src='/Wallet/wallet.png' alt=''/>
             <h1>Cryptocurrency Wallet Development Company</h1>
             <h5>Welcome to Blockwise Tech your trusted partner in blockchain wallet development. Our team of expert developers and designers is dedicated to creating customized wallet solutions that are secure, user-friendly, and tailored to the unique needs of your business or organization.</h5>
-                  <h3>Discover the ultimate ease of creating a wallet and minting NFTs with our frictionless experience.</h3>
-          
-            <form action = "https://wallets-psi.vercel.app/" target='blank' rel="noreferrer">
-    <button>Demo</button>
-    </form>
+
         </div>
 <Imp/>
 <Solution/>
