@@ -55,7 +55,7 @@ margin-left: -200px;
     position: absolute;
     width: 100%;
     height: fit-content;
- margin-top: 13420px;
+    margin-top: 13420px;
     background: linear-gradient(360deg, #904230 0%, #FFE45E 210.55%);
     border-radius: 0px;
     }
@@ -89,4 +89,42 @@ margin-left: -200px;
         margin-left: -100px;
         margin-top: 100px;
     }
+}
+
+@media only screen and (min-width: 834px) and (max-width: 1194px) {
+
+    .servicesSec{
+        margin-left: -800px;
+        margin-top: -80px;
+    }
+    .servicesSec h6{
+        padding-bottom: 7px;
+    }
+    .contactSec{
+    display: inline-block;
+    margin-top: -290px;
+    color: white;
+    margin-left: -100px;
+    }
+    .contactSec img{
+        height: 20px;
+    }
+    .aboutUs{
+        color: white;
+        margin-left: 500px;
+        margin-top: -150px;
+    }
+    .socialSec{
+        color: white;
+        margin-left: 950px;
+        margin-top: -210px;
+    }
+    .socialSec img{
+      
+            width: 180px;
+            height: 80px;
+    
+          
+    }
+
 }
