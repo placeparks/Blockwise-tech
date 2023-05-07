@@ -31,7 +31,6 @@ export default function Layout() {
      <Solutions/>
      <MetaverseBenefits/>
      <FAQ/>
-    <Blog/>
     <Contact/>
     <Footer/>
   
