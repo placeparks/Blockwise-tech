@@ -14,8 +14,9 @@ top: 1235px;
 background: #ffffff;
 border-radius: 0px;
 }
+
 @media (max-width: 767px) {
 .section1{
-    top:1900px;
+    top:2000px;
 }
 }
