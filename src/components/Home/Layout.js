@@ -30,8 +30,6 @@ export default function Layout() {
      <Expertise/>
      <Solutions/>
      <MetaverseBenefits/>
-     <Partners/>
-     <Clients/>
      <FAQ/>
     <Blog/>
     <Contact/>
