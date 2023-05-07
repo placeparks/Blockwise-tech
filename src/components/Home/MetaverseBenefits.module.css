@@ -90,6 +90,9 @@
         width: 320px;
         margin-left:15px;
       }
+      .metaSection{
+        margin-top: -1000px;
+      }
 }
 @media only screen and (min-width: 834px) and (max-width: 1194px) {
   .box1, .box2, .box3, .box4, .box5{
