@@ -64,39 +64,16 @@
     align-items: center;
     padding: 0px 40px;
     position: absolute;
-    height: 723px;
+    height: 500px;
     left: 0px;
     right: 0px;
     top: 600px;
     width: 100%;
-    background: #FFFFFF;
+    background: #ffffff;
     border-radius: 0px;
   }
   
-  .secondSection h1 {
-    width: 680px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 38px;
-    line-height: 58px;
-    margin-left: -800px;
-    color: #000000;
-    margin-top: 100px;
-  }
-  
-  .secondSection p{
-    width: 680px;
-    height: 66px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 22px;
-    line-height: 150%;
-    color: #0A2A42;
-    margin-left: -790px;
-    margin-top: 20px; /* Add this */
-  }
+
   @media (max-width: 767px) {
   
       .firstSection{
@@ -160,12 +137,6 @@
 
 
 
-.secondSection h1 {
-  margin-left: -400px;
-}
 
-.secondSection p{
-  margin-left: -400px;
-}
 
 }
