@@ -97,7 +97,7 @@ margin-top: -30px;
     position: absolute;
     height: 1700px;
     width: 100%;
-  top: 12350px;
+    top: 12350px;
     background: #343434;
     }
     .container{
@@ -180,4 +180,29 @@ margin-top: -30px;
         border: 1px solid #FFFFFF;
     
     }
+}
+@media only screen and (min-width: 834px) and (max-width: 1194px) {
+
+    .container{
+    margin-left: 1%;
+    width: 580px;
+    height: fit-content;
+   
+    }
+    .container2{
+    margin-left: 20px;
+    margin-top: -500px;
+    }
+    .container2 h1{
+        color: white;
+        font-size: 35px;
+    }
+    .circle1, .circle2,.circle3, .circle4{
+        left: 600px;
+     
+    }
+
+    
+
+    
 }
