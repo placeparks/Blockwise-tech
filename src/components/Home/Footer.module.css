@@ -39,7 +39,13 @@ margin-left: -200px;
     margin-left: 1050px;
     margin-top: -190px;
 }
+.socialSec img{
+  
+        width: 180px;
+        height: 80px;
 
+      
+}
 @media (max-width: 767px) {
     .footerBody{
         display: flex;
