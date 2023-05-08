@@ -17,6 +17,10 @@ border-radius: 0px;
 
 @media (max-width: 767px) {
 .section1{
-    top:2000px;
+    top:2100px;
+}
+.wallet{
+    margin-top: 25%;
 }
 }
+
