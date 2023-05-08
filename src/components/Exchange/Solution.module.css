@@ -17,7 +17,9 @@ border-radius: 0px;
 .section1 img{
     margin-left: -45%;
 }
-
+.section1 h1{
+    margin-top: -10%;
+}
 .questions{
     margin-left: 40%;
     margin-top: -28%;
