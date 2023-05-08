@@ -8,7 +8,7 @@ export default function UseCases(){
         
             <div className="row row-cols-1 row-cols-md-4 g-4" style={{marginInline:"60px"}}>
   <div className="col">
-    <div className="card h-100" >
+       <div className="card h-100" style={{minWidth:"18rem"}}>
       <img src="/Blockchain/finance.jpg" style={{height:"200px"}} className="card-img-top" alt="..."/>
       <div className="card-body">
       <h5 className="card-title" style={{fontWeight:"600"}}>Decentralized Finance (DeFi)</h5>
@@ -17,7 +17,7 @@ export default function UseCases(){
     </div>
   </div>
   <div className="col">
-  <div className="card h-100" >
+     <div className="card h-100" style={{minWidth:"18rem"}}>
       <img src="/Blockchain/supplychain1.jpg" style={{height:"200px"}} className="card-img-top" alt="..."/>
       <div className="card-body">
       <h5 className="card-title" style={{fontWeight:"600"}}>Supply Chain Management</h5>
@@ -26,7 +26,7 @@ export default function UseCases(){
     </div>
   </div>
   <div className="col">
-  <div className="card h-100" >
+      <div className="card h-100" style={{minWidth:"18rem"}}>
       <img src="/Blockchain/identity.jpg" style={{height:"200px"}} className="card-img-top" alt="..."/>
       <div className="card-body">
       <h5 className="card-title" style={{fontWeight:"600"}}>Digital Identity Management</h5>
@@ -35,7 +35,7 @@ export default function UseCases(){
     </div>
   </div>
   <div className="col">
-  <div className="card h-100" >
+      <div className="card h-100" style={{minWidth:"18rem"}}>
       <img src="/Blockchain/rights.jpg" style={{height:"200px"}} className="card-img-top" alt="..."/>
       <div className="card-body">
       <h5 className="card-title" style={{fontWeight:"600"}}>Digital Rights Management</h5>
@@ -53,7 +53,7 @@ export default function UseCases(){
     </div>
   </div>
   <div className="col">
-  <div className="card h-100" >
+      <div className="card h-100" style={{minWidth:"18rem"}}>
       <img src="/Blockchain/realEstate.jpg" style={{height:"200px"}} className="card-img-top" alt="..."/>
       <div className="card-body">
       <h5 className="card-title" style={{fontWeight:"600"}}>Real Estate</h5>
@@ -62,7 +62,7 @@ export default function UseCases(){
     </div>
   </div>
   <div className="col">
-  <div className="card h-100" >
+      <div className="card h-100" style={{minWidth:"18rem"}}>
       <img src="/Blockchain/health.jpg" style={{height:"200px"}} className="card-img-top" alt="..."/>
       <div className="card-body">
       <h5 className="card-title" style={{fontWeight:"600"}}>Health Care</h5>
@@ -70,6 +70,7 @@ export default function UseCases(){
       </div>
     </div>
   </div>
+
   <div className="col">
   <div className="card h-100">
       <img src="/Blockchain/education.jpg" style={{height:"200px"}} className="card-img-top" alt="..."/>
@@ -78,8 +79,8 @@ export default function UseCases(){
         <p className="card-text">Blockchain has potential use cases in education such as secure digital certificates and diplomas to reduce fraud and simplify credential verification, secure storage of academic records for easy sharing with employers and institutions, and facilitating microcredentialing and badging for learners to showcase their skills and knowledge.</p>
       </div>
     </div>
-  </div>
-  
+    </div>
+
 </div>
         
         </div>
