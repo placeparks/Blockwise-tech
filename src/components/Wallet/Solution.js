@@ -116,19 +116,23 @@ export default function Solution(){
     </div>
   </div>
   </div>
+
+
+
+  
+<div className={styles.wallet}>
   <div className="card mb-3" style={{maxWidth:"100%", background:"transparent", border:"none"}} >
   <div className="row g-0">
     <div className="col-md-4">
       <img src="/Wallet/walletPage.JPG" className="img-fluid rounded-start h-100" alt="..."/>
     </div>
 
-<div className={styles.wallet}>
     <div className="col-md-8" >
       <div className="card-body">
         <h5 className="card-title" style={{fontWeight:"600"}}>Revolutionize Your NFT Creation with Our Seamless Wallet Setup and Gasless Minting System</h5>
         <p className="card-text" style={{textAlign:"justify"}}>Get ready to revolutionize the way you create and store your NFTs! Our frictionless wallet creation and NFT minting experience is unlike anything you've seen before. Say goodbye to complicated seed phrases and keys – simply create your wallet with just your email, mobile number, or a quick password as a guest.
 With our hassle-free process, you can easily log in and start minting your own gasless NFTs that will blow your mind. Don't miss out on the opportunity to experience the future of NFT creation – start now!</p>
-<a href="https://wallets-psi.vercel.app/" target='blank' rel="noreferrer" class="btn btn-primary">CLICK ME</a>
+<a href="https://wallets-psi.vercel.app/" target='blank' rel="noreferrer" class="btn btn-primary">EXPERIENCE NOW</a>
       </div>
     </div>
   </div>
