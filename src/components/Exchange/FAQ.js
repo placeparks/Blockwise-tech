@@ -20,7 +20,7 @@ export default function FAQ(){
 <h5>(6) What is Cryptocurrency Exchange Script?</h5>
 <p>A cryptocurrency exchange script is a pre-engineered package of codes that can clone a specified cryptocurrency trading platform in terms of its functionality and user interface. The ready-made solution can be leveraged to launch a cryptocurrency exchange software similar to prominent cryptocurrency exchanges existing in the market.</p>
 <h5>(7) Which company offers the best cryptocurrency exchange development services?</h5>
-<p>Smart Block Tech offers signature cryptocurrency exchange development services as well as highly scalable, ready-made crypto exchange development solutions. Count on them for building high-end crypto trading platforms with industry-leading features, self-explanatory interface, and institutional-grade security protocols.</p>
+<p>Blockwise Tech offers signature cryptocurrency exchange development services as well as highly scalable, ready-made crypto exchange development solutions. Count on them for building high-end crypto trading platforms with industry-leading features, self-explanatory interface, and institutional-grade security protocols.</p>
 
             </div>
         </div>
