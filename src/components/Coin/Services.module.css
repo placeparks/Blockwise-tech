@@ -1,0 +1,29 @@
+.section1{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 60px 40px;
+gap: 40px;
+
+position: absolute;
+width: 100%;
+height: fit-content;
+top: 2220px;
+background: #FCFCFF;
+border-radius: 0px;
+}
+.section1 h1{
+    margin-top: -5%;
+}
+
+@media (max-width: 767px) {
+ .section1{
+    top: 3970px;
+ }
+}
+@media only screen and (min-width: 834px) and (max-width: 1194px) {
+    .section1{
+      top: 2300px;
+     }
+}
