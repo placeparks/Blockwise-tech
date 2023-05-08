@@ -12,7 +12,7 @@ export default function Main(){
             <h1>Web 3.0 Development Service</h1>
             <p>Powered by Blockchain, NFTs, DeFi, Metaverse, AI, ML, and IoT. We create decentralized platforms for diverse needs.</p>
         <button>TALK TO OUR EXPERTS</button>
-        <img className={styles.image1} src='/web3.0/Blockchain.png' alt=''/>
+        <img className={styles.image1} src='/Web3.0/Blockchain.png' alt=''/>
 
         </div>
         <div className={styles.section2}>
