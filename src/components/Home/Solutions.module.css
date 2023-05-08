@@ -1,0 +1,45 @@
+/* Solutions css section */
+.solution{
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 40px 100px;
+  gap: 40px;
+  position: absolute;
+  width: 100%;
+  height: 1179px;
+  top: 3010px;
+  background: #FCFCFF;
+  border-radius: 0px;
+  }
+  
+  .solution h1{
+    margin-top: -10px;
+  }
+  .cardBody1{
+    height: 230px;
+    padding: 15px 15px;
+  }
+  /* Media Query for screens smaller than 768px */
+/* Mobile styles */
+@media (max-width: 767px) {
+    .solution{
+    top: 5270px;
+   height: fit-content;
+    }
+    
+    .solution h1{
+      margin-top: 10px;
+    }
+  .cardBody1{
+    height: 250px;
+    padding: 15px 15px;
+  }   
+}
+@media only screen and (min-width: 834px) and (max-width: 1194px) {
+  .cardBody1{
+    height: 250px;
+    padding: 15px 15px;
+  } 
+}

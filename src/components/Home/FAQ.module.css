@@ -1,0 +1,53 @@
+/* FAQ.js css section */
+.faqSection{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  gap: 20px;
+  position: absolute;
+  height: 1006px;
+  width: 100%;
+  top: 5100px;
+  background: #F1F1F1;
+  border-radius: 0px;
+  }
+  .imageSec{
+    display: inline-block;
+  }
+  .imageFAQ{
+    width: 430px;
+  height: 768px;
+  margin-left: -100px ;
+  }
+  .questions {
+  width: 550px;
+  margin-left: 350px;
+  margin-top: -750px;
+  }
+  @media (max-width: 767px) {
+  
+    .faqSection{
+        height: fit-content;
+        width: 100%;
+           top: 10670px;
+        background: #F1F1F1;
+        border-radius: 0px;
+        }
+        .faqSection h1{
+          text-align: center;
+        }
+     .imageSec{
+      display: block;
+     }
+        .imageFAQ{
+        width:auto;
+        height: 468px;
+    margin-left: 60px;
+        }
+        .questions {
+        width: 350px;
+        margin-left: 0px;
+        margin-top: 50px;
+        }
+}
