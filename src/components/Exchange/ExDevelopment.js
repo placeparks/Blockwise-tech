@@ -22,7 +22,7 @@ export default function ExDevelopment(){
     <h1>Cryptocurrency Exchange Development - A Gateway to Billion-Dollar Market</h1>
                 <h6 >The world of cryptocurrency has transcended the stereotype of being a fad for tech-savvy millennials. Its influence has now spread far and wide, disrupting traditional financial practices and ushering in a new era of global fintech. Blockwise Tech is at the forefront of this revolution, providing cutting-edge cryptocurrency exchange software that empowers people with unchallenged financial freedom. This software boasts unparalleled security, transparency, speed, and decentralization, making it the perfect platform for seamless transactions and profitable investments. With the widespread adoption of cryptocurrency, the demand for exchange software is skyrocketing, benefiting big brands, SMEs, and individual investors alike. And if you're looking to ride the wave of change and set up your own golden goose, Blockwise Tech's customizable white label exchange software is just what you need.</h6>
             <p>Exploit The Expertise of a Cryptocurrency Exchange Software Development Company</p>
-            <button type='button' className='btn btn-primary'>CONNECT ON WHATSAPP</button>
+         
             </div>
             </div>
     </div>
