@@ -14,8 +14,7 @@ export default function Home(){
         </div>
         <UseCases/>
         <Contract/>
-        <Services/>
-        <Contact/>
+    
 
         </>
     )
