@@ -101,3 +101,25 @@
         text-align: justify;
     }
   }
+ @media only screen and (min-width: 834px) and (max-width: 1400px) {
+
+    .section1 img {
+        margin-left: -50%;
+        margin-top: 0%;
+        height: 400px;
+  
+    }
+    
+    .section1 h3 {
+        width: 50%;
+        margin-left: 48%;
+        margin-top: -30%;
+    }
+    
+    .section1 h6 {
+        width: 47%;
+        margin-left: 45%;
+        line-height: 25px;
+        text-align: justify;
+    }
+  }
