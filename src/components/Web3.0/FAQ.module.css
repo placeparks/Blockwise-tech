@@ -47,7 +47,7 @@ border-radius: 0px;
         margin-top: 50px;
         }
 }
-@media only screen and (min-width: 834px) and (max-width: 1394px) {
+@media only screen and (min-width: 834px) and (max-width: 1194px) {
     .section1 img{
         margin-left: -700px;
     }
@@ -58,4 +58,21 @@ border-radius: 0px;
         margin-left: 470px;
     }
 
+}
+@media only screen and (min-width: 834px) and (max-width: 1400px) {
+    .section1 img{
+        margin-left: -750px;
+    }
+    .questions{
+        margin-top: -82%;
+        line-height: 30px;
+        width: 57%;
+        margin-left: 550px;
+    }
+.section1 h1{
+    padding-bottom: 2%;
+}
+.section1{
+    padding:0;
+}
 }
