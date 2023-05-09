@@ -62,3 +62,8 @@ border-radius: 0px;
     margin-top: 3500px;
       }
 }
+@media only screen and (min-width: 834px) and (max-width: 1400px) {
+.section1{
+    top: 3900px;
+}
+}
