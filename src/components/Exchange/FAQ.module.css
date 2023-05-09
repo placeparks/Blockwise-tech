@@ -80,3 +80,23 @@ border-radius: 0px;
         color: black;
     }
 }
+@media only screen and (min-width: 834px) and (max-width: 1400px) {
+
+    .section1{
+    top: 10300px ;
+    padding: 0px;
+    }
+    .section1 img{
+        margin-left: -750px;
+        margin-top: 100px;
+        height: fit-content;
+    }
+    .questions{
+        margin-top: -50%;
+        line-height: 25px;
+        width: 57%;
+        margin-left: 500px;
+        color: black;
+    }
+
+ }
