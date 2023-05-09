@@ -143,3 +143,20 @@ margin-left: 20%;
    
    
 }
+@media only screen and (min-width: 834px) and (max-width: 1400px) {
+
+    .section2 h1{
+        width: 302px;
+    height: 100px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 65px;
+    
+    color: #0069FF;
+    }
+    .section2 p{
+        padding-top: 5%;
+    }
+}
