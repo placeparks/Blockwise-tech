@@ -94,3 +94,26 @@
   }
   
   
+  @media only screen and (min-width: 834px) and (max-width: 1400px) {
+    .section1 {
+      margin-top: 190px;
+    }
+    .section1 img {
+      margin-left: -720px;
+      margin-top: 90px;
+    }
+    
+    .questions {
+      margin-top: -53%;
+      line-height: 25px;
+      width: 50%;
+      margin-left: 450px;
+      color: black;
+    }
+    
+    .section1 h1 {
+      margin-top: 0%;
+    }
+
+  }
+  
