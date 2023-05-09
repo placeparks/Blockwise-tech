@@ -15,6 +15,8 @@ export default function Home(){
         <UseCases/>
         <Contract/>
     
+   <Services/>
+        <Contact/>
 
         </>
     )
