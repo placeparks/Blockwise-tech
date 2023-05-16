@@ -7,7 +7,7 @@ export default function Solutions() {
     <h3>Industries and Businesses adopting the next wave of digital era.</h3>
     <div className="row row-cols-1 row-cols-md-4 g-4">
   <div className="col">
-    <div className="card">
+    <div className="card h-100">
       <img src="/solution-section/rec1.png" className="card-img-top" alt="..."/>
       <div className={styles.cardBody1}>
         <h5 className="card-title">Blockchain in Financial Sector</h5>
@@ -16,7 +16,7 @@ export default function Solutions() {
     </div>
   </div>
   <div className="col">
-    <div className="card">
+    <div className="card h-100">
       <img src="/solution-section/rec2.png" className="card-img-top" alt="..."/>
       <div className={styles.cardBody1}>
         <h5 className="card-title">Blockchain in Insurance</h5>
@@ -25,7 +25,7 @@ export default function Solutions() {
     </div>
   </div>
   <div className="col">
-    <div className="card">
+    <div className="card h-100">
       <img src="/solution-section/rec3.png" className="card-img-top" alt="..."/>
       <div className={styles.cardBody1}>
         <h5 className="card-title">Blockchain in Healthcare</h5>
@@ -34,7 +34,7 @@ export default function Solutions() {
     </div>
   </div>
   <div className="col">
-    <div className="card">
+    <div className="card h-100">
       <img src="/solution-section/rec4.png" className="card-img-top" alt="..."/>
       <div className={styles.cardBody1}>
         <h5 className="card-title">Blockchain in Supply Chain</h5>
@@ -43,7 +43,7 @@ export default function Solutions() {
     </div>
   </div>
   <div className="col">
-    <div className="card">
+    <div className="card h-100">
       <img src="/solution-section/rec5.png" className="card-img-top" alt="..."/>
       <div className={styles.cardBody1}>
         <h5 className="card-title">Blockchain in Agriculture</h5>
@@ -52,7 +52,7 @@ export default function Solutions() {
     </div>
   </div>
   <div className="col">
-    <div className="card">
+    <div className="card h-100">
       <img src="/solution-section/rec6.png" className="card-img-top" alt="..."/>
       <div className={styles.cardBody1}>
         <h5 className="card-title">Blockchain in Transportation</h5>
@@ -61,7 +61,7 @@ export default function Solutions() {
     </div>
   </div>
   <div className="col">
-    <div className="card">
+    <div className="card h-100">
       <img src="/solution-section/rec7.png" className="card-img-top" alt="..."/>
       <div className={styles.cardBody1}>
         <h5 className="card-title">Blockchain in Retail</h5>
@@ -70,7 +70,7 @@ export default function Solutions() {
     </div>
   </div>
   <div className="col">
-    <div className="card">
+    <div className="card h-100">
       <img src="/solution-section/rec8.png" className="card-img-top" alt="..."/>
       <div className={styles.cardBody1}>
         <h5 className="card-title">Blockchain in Energy: Oil and Gas</h5>
