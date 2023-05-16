@@ -68,3 +68,17 @@ border-radius: 0px;
         margin-left: -42%;
     }
 }
+@media only screen and (min-width: 1100px) and (max-width: 1400px) {
+    .section1{
+    height: 752px;
+      top: 7800px;
+    }
+    .questions{
+        margin-left: 50%;
+        margin-top: -35%;
+    }
+    .section1 img{
+        margin-left: -42%;
+    
+    }
+}
