@@ -39,3 +39,12 @@ margin-inline: 20px;
     }
 }
 
+@media only screen and (min-width: 834px) and (max-width: 1400px) {
+    .section1{
+        top: 2360px;
+    }
+    .section1 h1{
+        margin-top: -17%;
+    }
+   
+}
