@@ -60,12 +60,12 @@ border-radius: 0px;
     border-radius: 0px;
     }
     
-    .section1 img{
+  .section1 img{
         margin-left: -800px;
-        margin-top: 100px;
+        margin-top: 80px;
     }
     .questions{
-        margin-top: -50%;
+        margin-top: -51%;
         line-height: 25px;
         width: 57%;
         margin-left: 500px;
