@@ -90,8 +90,8 @@ line-height: 30px;
         
 
 }
-@media only screen and (min-width: 834px) and (max-width: 1400px) {
+@media only screen and (min-width: 1042px) and (max-width: 1400px) {
     .section1{
-    top: 1980px;
+    top: 2100px;
     }
   }
