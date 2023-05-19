@@ -11,7 +11,7 @@ export default function Admin(){
                 <p>&#9989; Transactions</p>
                 <p>&#9989; Transaction Details</p>
                 <p>&#9989; Transaction History</p>
-                <p>&#9989; UserSmart Block Tech Details</p>
+                <p>&#9989; User Blockwise Tech Details</p>
                 <p>&#9989; Payment Order Dashboard</p>
 
 
