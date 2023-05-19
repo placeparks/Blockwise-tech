@@ -9,7 +9,7 @@ export default function FAQ(){
             <h5>(1) Do you provide NFT Development services ?</h5>
             <p>Yes, we provide end-to-end NFT development services and can help you create non fungible token marketplace that allows the trading and auction of NFTs</p>
             <h5>(2) How should I choose the right NFT Development company?</h5>
-            <p>Smart Block Tech offers customized cryptocurrency wallet development services. The project completion time depends on the features and functionality you want to add to your project. We will complete your projects in the least amount of time.</p>
+            <p>Blockwise Tech offers customized cryptocurrency wallet development services. The project completion time depends on the features and functionality you want to add to your project. We will complete your projects in the least amount of time.</p>
             <h5>(3) How can I hire NFT developers?</h5>
             <p>We understand that everyone doesn't have sound technical knowledge about the project. This is when you will be supported by our developers, who will guide you step by step throughout the project development journey</p>
             <h5>(4) Which is the best NFT development company?</h5>
