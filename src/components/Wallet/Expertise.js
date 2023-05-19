@@ -10,7 +10,7 @@ export default function Expertise(){
     return(
         <div className={styles.section1}>
           <h2>Secure, Customized, and Cutting-Edge Wallet Development - Trust Us to Deliver Excellence</h2>  
-          <h3>At Blockwise Tech, we are passionate about helping businesses and organizations harness the power of blockchain technology to achieve their goals. Let us be your partner in wallet development – we're confident you'll be glad you chose us.</h3>
+          <h3>At Smart Block Tech, we are passionate about helping businesses and organizations harness the power of blockchain technology to achieve their goals. Let us be your partner in wallet development – we're confident you'll be glad you chose us.</h3>
           
           <h4  data-aos="fade-right"
      data-aos-easing="ease-in-sine">Expertise</h4>
