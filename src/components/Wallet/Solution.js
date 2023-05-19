@@ -4,7 +4,7 @@ export default function Solution(){
     return(
         <div className={styles.section1}>
             <h1>Types of Crypto Wallet Development Solutions</h1>
-            <p>At Blockwise Tech, we offer a range of wallet development solutions to meet the needs of different businesses and organizations. Here are some of the most common types of crypto wallets we can develop for you:</p>
+            <p>At Smart Block Tech, we offer a range of wallet development solutions to meet the needs of different businesses and organizations. Here are some of the most common types of crypto wallets we can develop for you:</p>
         
             <div className="row row-cols-1 row-cols-md-3 g-4">
   <div className="col">
