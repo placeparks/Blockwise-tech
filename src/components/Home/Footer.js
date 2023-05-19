@@ -36,7 +36,7 @@ export default function Footer() {
 
 <div className={styles.socialSec}>
     <img src='logo.png' alt=""/>
-    <p>Blockwise Technologies</p>
+        <p>Smart Block Technologies</p>
     <p>©2023 All right reserved</p>
               <AiOutlineInstagram/>
               <AiOutlineTwitter/>
