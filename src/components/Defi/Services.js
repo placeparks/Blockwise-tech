@@ -11,7 +11,7 @@ export default function Services(){
         <>
         <div className={styles.section1}>
     <img src='/Defi/Rectangle.png' alt=''/>
-    <h2>Unlock your DeFi potential with Smart Block Tech! Our expert team brings your ideas to life and navigates the ever-changing landscape of decentralized finance. Join our innovative community and let's build the future of finance together.</h2>
+    <h2>Unlock your DeFi potential with Blockwise Tech! Our expert team brings your ideas to life and navigates the ever-changing landscape of decentralized finance. Join our innovative community and let's build the future of finance together.</h2>
         </div>
 
 <div className={styles.section2}>
@@ -23,7 +23,7 @@ export default function Services(){
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/1.png" className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>DAO Development</h5>
-        <p className="card-text">Revolutionize your business with a DAO created by Smart Block Tech. Our comprehensive services cover everything from governance token and utility token creation to smart contract development. Let us create an all-inclusive DAO to elevate your business to the next level.</p>
+        <p className="card-text">Revolutionize your business with a DAO created by Blockwise Tech. Our comprehensive services cover everything from governance token and utility token creation to smart contract development. Let us create an all-inclusive DAO to elevate your business to the next level.</p>
       </div>
     </div>
   </div>
@@ -50,7 +50,7 @@ export default function Services(){
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/4.png" className="card-img-top" alt="..."/>
       <div className="card-body">
        <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>DeFi Insurance Platform Development</h5>
-       <p className="card-text">While DeFi may be decentralized and democratic, the underlying smart contracts are not immune to unforeseeable risks such as sudden liquidity requests. At Smart Block Tech, we believe in proactively addressing future risks by engaging in direct insurance deals. Protect your assets and future-proof your DeFi investments with our comprehensive approach.</p>
+       <p className="card-text">While DeFi may be decentralized and democratic, the underlying smart contracts are not immune to unforeseeable risks such as sudden liquidity requests. At Blockwise Tech, we believe in proactively addressing future risks by engaging in direct insurance deals. Protect your assets and future-proof your DeFi investments with our comprehensive approach.</p>
       </div>
     </div>
   </div>
@@ -59,7 +59,7 @@ export default function Services(){
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/5.png" className="card-img-top" alt="..."/>
       <div className="card-body">
        <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>DeFi Token Development</h5>
-       <p className="card-text">Unleash the potential of your crypto assets with Smart Block Tech! Our strategic consulting services empower enterprises and investors to transform underutilized assets into productive investments. From end-to-end DeFi token development to issuance platforms, we're here to guide you every step of the way.</p>
+       <p className="card-text">Unleash the potential of your crypto assets with Blockwise Tech! Our strategic consulting services empower enterprises and investors to transform underutilized assets into productive investments. From end-to-end DeFi token development to issuance platforms, we're here to guide you every step of the way.</p>
       </div>
     </div>
   </div>
@@ -86,7 +86,7 @@ export default function Services(){
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/8.png" className="card-img-top" alt="..."/>
       <div className="card-body">
        <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>DeFi Lottery Platform Development</h5>
-       <p className="card-text">Revolutionize your DeFi investment strategy with Smart Block Tech's Lottery system! Safely and legally invest your capital in other dApps, while earning interest and rewarding a randomly chosen winner through smart contracts. Secure your financial future with assured returns - join Smart Block Tech today!</p>
+       <p className="card-text">Revolutionize your DeFi investment strategy with Blockwise Tech's Lottery system! Safely and legally invest your capital in other dApps, while earning interest and rewarding a randomly chosen winner through smart contracts. Secure your financial future with assured returns - join Blockwise Tech today!</p>
       </div>
     </div>
   </div>
@@ -113,7 +113,7 @@ export default function Services(){
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/11.png" className="card-img-top" alt="..."/>
       <div className="card-body">
        <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>Smart Contract Audit Development</h5>
-       <p className="card-text">Trust the experts at Smart Block Tech for top-notch smart contract audit services. With a proven track record of delivering audits for over 300 blockchain projects and NFTs, spanning various networks like Solana, Ethereum, Polygon, BSC, and more, we ensure your security and peace of mind</p>
+       <p className="card-text">Trust the experts at Blockwise Tech for top-notch smart contract audit services. With a proven track record of delivering audits for over 300 blockchain projects and NFTs, spanning various networks like Solana, Ethereum, Polygon, BSC, and more, we ensure your security and peace of mind</p>
       </div>
     </div>
   </div>
@@ -122,7 +122,7 @@ export default function Services(){
       <img  data-aos="zoom-in" data-aos-duration="3000" style={{height:"80px", width:"80px", alignSelf:"center", paddingTop:"20px"}} src="/Defi/12.png" className="card-img-top" alt="..."/>
       <div className="card-body">
        <h5 className="card-title" style={{textAlign:"center", paddingTop:"20px"}}>Web 3.0 DeFi Development</h5>
-       <p className="card-text">Bring your business ideas to life with our expert team at Smart Block Tech. Our full-featured, user-centric DeFi development services are designed to turn your vision into reality. Experience top-tier solutions at affordable prices with the power of web 3.0 technology. Let's build the future of finance together.</p>
+       <p className="card-text">Bring your business ideas to life with our expert team at Blockwise Tech. Our full-featured, user-centric DeFi development services are designed to turn your vision into reality. Experience top-tier solutions at affordable prices with the power of web 3.0 technology. Let's build the future of finance together.</p>
       </div>
     </div>
   </div>
