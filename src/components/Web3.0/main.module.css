@@ -160,4 +160,11 @@ margin-left: 20%;
     .section2 p{
         padding-top: 5%;
     }
+        .image1{
+        width: 600px;
+    height: 450px;
+    margin-left: 50%;
+    display: inline;
+    margin-top: -30%;
+    }
 }
