@@ -38,8 +38,7 @@ export default function Footer() {
     <img src='logo.png' alt=""/>
            <p>Blockwise technologies</p>
     <p>©2023 All right reserved</p>
-              <AiOutlineInstagram/>
-              <AiOutlineTwitter/>
+  
 </div>
 
 
