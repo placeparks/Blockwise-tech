@@ -37,8 +37,7 @@ export default function BusinessToWeb3(){
 </div>
 <div className={styles.section2}>
 <h2>Connect with SMEs at our Web3 development agency to create a distributed& decentralized platform for your business.</h2>
-<button>CONNECT ON WHATSAPP</button>
-<button>CONNECT ON TELEGRAM</button>
+
 </div>
         </div>
         </>
