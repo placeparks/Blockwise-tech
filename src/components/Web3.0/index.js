@@ -11,7 +11,7 @@ export default function Main(){
         <div className={styles.mainBody}>
             <h1>Web 3.0 Development Service</h1>
             <p>Powered by Blockchain, NFTs, DeFi, Metaverse, AI, ML, and IoT. We create decentralized platforms for diverse needs.</p>
-        <button>TALK TO OUR EXPERTS</button>
+      
         <img className={styles.image1} src='/Web3.0/Blockchain.png' alt=''/>
 
         </div>
@@ -34,7 +34,7 @@ export default function Main(){
             <h1>Connect With Our Web 3.0 Development Company to Widen Your Market Globally</h1>
         <p>The web has undergone massive changes in the last three decades. Web 3.0, or read-write-own web is the third generation of the internet that allows websites and dApps to interact much similar to humans. Entrepreneurs can capitalize on the opportunity to enter business relationships with their customers worldwide using Decentralized Ledger Technology for trustless transactions. Augment yoir marketing infrastructure with Big Data, AI, & ML. Our team offers end-to-end web3 development services for streamlining and accelerating your transition to evolved web that is open, intelligent, and autonomous. Harness our expertise to start your web3 development journey effortlessly.
 Ready To Choose Us For Web 3.0 Development Services?</p>
-<button>TALK TO OUR EXPERTS</button>
+
         </div>
  
         <BusinessToWeb3/>
