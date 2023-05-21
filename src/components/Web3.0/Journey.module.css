@@ -6,7 +6,7 @@ align-items: center;
 padding: 40px 40px 112px;
 gap: 40px;
 position: absolute;
-height: 673px;
+height: 700px;
 left: 0px;
 right: 0px;
 top: 4500px;
@@ -116,7 +116,7 @@ flex-grow: 1;
     position: absolute;
     height: 430px;
     width: 100%;
-    top: 5170px;
+    top: 5200px;
     background: #678398;
     border-radius: 0px;
 }
