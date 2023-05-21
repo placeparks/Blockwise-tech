@@ -40,7 +40,6 @@ export default function ExDevelopment(){
 At It Smart Block Tech, we provide top-notch cryptocurrency exchange development services, creating customized white label crypto trading platforms to meet the unique needs of your business. Our team of expert developers can deliver a future-ready exchange with unbeatable features, an eye-catching user interface, and top-notch security.
 
 Don't settle for a run-of-the-mill exchange platform. Take your crypto game to the next level with our best-in-class white label cryptocurrency exchange script. It's fully customizable, secure, and scalable, and we guarantee to deliver within your timeframe and budget. Trust us to enhance your crypto exchange development campaign with the latest and greatest technology.</h6>
-<button type="button" className='btn btn-primary'>TALK TO EXPERTS</button>
     </div>
     <div className="col">
     <img className={styles.image2} src='/Exchange/exchange1.png' alt=''/>
