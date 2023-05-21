@@ -14,6 +14,7 @@ background: #b5b584;
 }
 .mainBody p{
     width: 30%;
+      font-size: 20px;
 }
 .mainBody button, .section3 button{
     width: 206px;
