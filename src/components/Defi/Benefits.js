@@ -98,10 +98,6 @@ export default function Benefits(){
   </div>
   
 </div>
-<div className="d-grid gap-2 d-md-block">
-<button>CONNECT ON WHATSAPP</button>
-    <button>CONNECT ON TELEGRAM</button>
-    </div>
 
         </div>
       
