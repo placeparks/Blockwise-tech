@@ -16,8 +16,6 @@ return(
 <img src='/Web3.0/image3.0.png' alt=''/>
 <h2>Steer your Web 3.0 development journey with us.</h2>
 
-<button className={styles.btn1}>CONNECT ON WHATSAPP</button>
-<button className={styles.btn2}>CONNECT ON TELEGRAM</button>
 </div>
 
     </>
